@@ -1,0 +1,407 @@
+.fblogo
+{
+    border-radius:100px;
+    width:40px;
+    height:35px;
+    padding:12px;
+}
+.navigation
+{
+    width:100%;
+    height:5em;
+    display:grid;
+    grid-auto-flow:column;
+    background-color:grey;
+}
+.section1
+{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    grid-column-gap:5px;
+
+}
+input
+{
+    border-left:1em;
+    justify-content:start;
+    width:160px;
+    height:20px;
+    margin-top:20px;
+    border-radius:50px;
+}
+.section2
+{
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  grid-column-gap:50px;
+
+}
+.home
+{
+  width:35px;
+  height:40px;
+  padding:10px;
+  border-radius:250px;
+}
+.store
+{
+    width:35px;
+    height:40px;
+    padding:10px;
+    border-radius:250px;
+}
+.people
+{
+    width:35px;
+    height:40px;
+    padding:10px;
+    border-radius:250px;
+}
+.watch
+{
+    width:35px;
+    height:40px;
+    padding:10px;
+    border-radius:250px;
+}
+.section3
+{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: end;
+    grid-column-gap:5px;
+}
+.chan
+{
+    width:35px;
+    height:40px;
+    padding:8px;
+    border-radius:100px;
+}
+.gridicon
+{
+    width:35px;
+    height:40px;
+    padding:8px;
+    border-radius:250px;
+}
+.messenger
+{
+    width:35px;
+    height:40px;
+    padding:8px;
+    border-radius:250px;
+}
+.notification
+{
+    width:35px;
+    height:40px;
+    padding:8px;
+    border-radius:250px;
+}
+.downarrow
+{
+    width:35px;
+    height:40px;
+    padding:8px;
+    border-radius:250px;
+}
+.jackie
+{
+    justify-content:center;
+    margin-top:20px ;
+}
+.section4
+{
+    height:50vh;
+    width:80vw;
+    border-radius:20px;
+    margin-left:10%;
+    margin-right:10%;
+}
+.nature1
+{
+    height:50vh;
+    width:80vw;
+    border:2px solid black;
+    border-radius:20px;
+    margin-left:0.5%;
+    margin-right:10%;
+    margin-top:5%;
+}
+.section5
+{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+    margin-left:10%;
+    margin-right:10%;
+    display:grid;
+    grid-auto-flow:column;
+}
+.nature2
+{
+    height:150px;
+    width:150px;
+    border-radius:100px;
+    margin-left:20px;
+    margin-top:10px;
+}
+.mid
+{
+    margin-top:90px;
+    margin-left:10px;
+    width: 45em;
+    height:25px;
+}
+.entry
+{
+    margin-top:90px;
+    margin-left:10px;
+    width:23em;
+    height:25px;
+    border:none;
+}
+.boxarrow
+{
+    width:1.5em;
+    height:1.5em;
+    margin-top:0.5em ;
+}
+.navigation2
+{
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    grid-column-gap:1em;
+    margin-top:-4em;
+    padding:0.5em;
+    gap:5em
+}
+.section6
+{
+   margin-left: 7em;
+   margin-top:6em;
+   display: grid;
+   grid-auto-flow: column;
+   justify-content: start;
+   width:30em;
+   background-color:grey;
+   padding:1em;
+   border-radius:10px;
+}
+.vdu
+{
+    width:4em;
+    height:4em;
+}
+.about
+{
+    width:4em;
+    height:4em;
+}
+.videos
+{
+    width:4em;
+    height:4em;
+}
+.photos
+{
+    width:4em;
+    height:4em;
+}
+.more
+{
+    width:4em;
+    height:4em;
+}
+.section7
+{
+   margin-left: 5em;
+   margin-top: 5em;
+   margin-right: 125px;
+   display: grid;
+   grid-auto-flow: column;
+   justify-content: end;
+   gap:45px;
+   grid-template-columns: 14% 16% 15% 15%;
+   border-radius:10px;
+   padding:2em;
+   background-color: grey;
+}
+.likebutton
+{
+    width:69px;
+    height:3.5em;
+    border-radius:10px;
+    background-color:cornflowerblue;
+    color: white;
+    border:none;
+}
+.message
+{
+    width: 100px;
+    height:3.5em;
+    border-radius:10px;
+    background-color:cornflowerblue;
+    color: white;
+    border:none;
+}
+.search
+{
+    width:65px;
+    height:3.5em;
+    border-radius:10px;
+    background-color:cornflowerblue;
+    border:none;
+}
+.options
+{
+    width:65px;
+    height:3.5em;
+    border-radius:10px;
+    background-color:cornflowerblue;
+    color: white;
+    border: none;
+}
+.button1
+{
+background-color:cornflowerblue;;
+padding: 0.5em;
+width: 5cm;
+height:1cm;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+color: #fff;
+border-radius: 10px;
+border:none;
+}
+hr
+{
+    width:80%;
+    margin-top:5em;
+}
+.End
+{
+    display:flex;
+    justify-content:start;
+
+}
+.section8
+{
+    margin-left: 11em;
+    width: 20em;
+    border-radius: 10px;
+    background-color:grey;
+    padding:1em
+}
+.chan2
+{
+    width:30px;
+    height:30px;
+    padding:8px;
+    border-radius:100px;
+    margin-left:4em;
+    margin-bottom:3em;
+}
+.section9
+{
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+}
+.section10
+{
+    display: grid;
+    grid-auto-flow: column;
+    width:30em;
+    height:5em;
+    box-shadow: black;
+    
+    margin-left:17em;
+    border-radius: 10px;
+    padding:1em;
+    background-color: grey;
+}
+.section11
+{
+    margin-left: 15em;
+    margin-top: -7%;
+    margin-bottom: 2em;
+    width: 50%;
+    height: 4em;
+    border-radius: 15px;
+    gap: 3em;
+}
+.photovideo
+{
+    width:1.5em;
+    height:1.5em;
+    padding: 0.5em 0em 0.5em 2.6em;
+}
+.checkin
+{
+    width: 1.5em;
+    height: 1.5em;
+    padding-left: 1em;
+}
+.tagfriends
+{
+    width:1.5em;
+    height:1.5em;  padding-left: 1em;
+}
+.postchecking
+{
+    display: grid;
+    grid-auto-flow: row;
+    width:10em;
+    padding:0.5em;
+    margin-top:3em;
+}
+.button2
+{
+    width:25em;
+    height:3em;
+    background-color:rgb(236, 119, 119);
+    border-radius: 1em;
+    color: white;
+    border: black;
+
+    
+}
+.lastlogin
+{
+  width:3em;
+  height:3em;
+  padding:10px;
+  border-radius:250px;
+  margin-left:1em;
+  
+}
+.thelast
+{
+    display: flex;
+    margin-left:17em;
+    height:5em;
+    background-color:grey;
+    border-radius:10px;
+}
+.nature3{
+    margin-top:2em;
+
+}
+.time{
+    margin-top:1.5em;
+    margin-left:1em;
+ }
+ 
+body
+{
+    background-image:linear-gradient(to bottom,black,grey);
+}
+
+
+
+
